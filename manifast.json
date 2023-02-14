@@ -1,35 +1,81 @@
 {
     "name": "tic-tac-toe",
     "short_name": "XnO",
-    "start_url": "/tic-tac-toe",
-    "background_color": "rod",
+    "start_url": "/TIC-TAC-TOE",
+    "background_color": "red",
     "theme_color": "coral",
     "display": "standalone",
-    "description": "Best Game ever created by me",
+    "discription": "Best Game ever created by me",
     "icons": [
         {
-            "src": "assests/images/Icon-48.png",
-            "size": "48x48"
+            "src": "assets/images/icon-36.png",
+            "sizes": "36x36"
         },
         {
-            "src": "assests/images/icon-55.png",
-            "size": "55x55"
+            "src": "assets/images/icon-48.png",
+            "sizes": "48x48"
         },
         {
-            "src": "assests/images/icon-80.png",
-            "size": "80x80"
+            "src": "assets/images/icon-72.png",
+            "sizes": "72x72"
         },
         {
-            "src": "assests/images/icon-88.png",
-            "size": "88x88"
+            "src": "assets/images/icon-96.png",
+            "sizes": "96x96"
         },
         {
-            "src": "assests/images/icon-172.png",
-            "size": "172x172"
+            "src": "assets/images/icon-144.png",
+            "sizes": "144x144"
         },
         {
-            "src": "assests/images/icon-196.png",
-            "size": "196x196"
+            "src": "assets/images/icon-192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "assets/images/icon-512.png",
+            "sizes": "512x512"
+        
         }
+    
+    ]
+}{
+    "name": "tic-tac-toe",
+    "short_name": "XnO",
+    "start_url": "/TIC-TAC-TOE",
+    "background_color": "red",
+    "theme_color": "coral",
+    "display": "standalone",
+    "discription": "Best Game ever created by me",
+    "icons": [
+        {
+            "src": "assets/images/icon-36.png",
+            "sizes": "36x36"
+        },
+        {
+            "src": "assets/images/icon-48.png",
+            "sizes": "48x48"
+        },
+        {
+            "src": "assets/images/icon-72.png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "assets/images/icon-96.png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "assets/images/icon-144.png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "assets/images/icon-192.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "assets/images/icon-512.png",
+            "sizes": "512x512"
+        
+        }
+    
     ]
 }
